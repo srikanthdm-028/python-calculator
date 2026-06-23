@@ -11,4 +11,4 @@ A Simple calculator written in Python.
 
 ## How to Run
 '''bash
-phton calculator.py
+python calculator.py
